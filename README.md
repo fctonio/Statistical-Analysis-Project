@@ -37,11 +37,11 @@ The Dataset can be downloaded from the following link: https://www.kaggle.com/c/
 
 In the repository you will find several files and a Folder:<br>
 <br>
-1 - .gitignore -> To not push everything.<br>
-2 - README.md -> That would be this beautiful file :P<br>
-3 - statistical-analysis.ipynb -> The code and analysis of the Dataset<br>
-4 - Data (Folder):<br>
--> train.csv -> Data used for the analysis <br>
+1 - .gitignore : To not push everything.<br>
+2 - README.md : That would be this beautiful file :P<br>
+3 - statistical-analysis.ipynb: The code and analysis of the Dataset<br>
+4 - Data (Folder) :<br>
+-> train.csv : Data used for the analysis <br>
     
 ## Links
 [Repository](https://github.com/fctonio/Statistical-Analysis-Project)
