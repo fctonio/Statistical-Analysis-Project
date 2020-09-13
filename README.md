@@ -41,7 +41,7 @@ In the repository you will find several files and a Folder:<br>
 2 - README.md -> That would be this beautiful file :P<br>
 3 - statistical-analysis.ipynb -> The code and analysis of the Dataset<br>
 4 - Data (Folder):<br>
-    4.1 - train.csv -> <br>
+-> train.csv -> Data used for the analysis <br>
     
 ## Links
 [Repository](https://github.com/fctonio/Statistical-Analysis-Project)
